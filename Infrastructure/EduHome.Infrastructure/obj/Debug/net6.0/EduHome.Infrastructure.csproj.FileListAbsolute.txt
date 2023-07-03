@@ -1,0 +1,17 @@
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\bin\Debug\net6.0\EduHome.Infrastructure.deps.json
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\bin\Debug\net6.0\EduHome.Infrastructure.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\bin\Debug\net6.0\EduHome.Infrastructure.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\bin\Debug\net6.0\EduHome.Application.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\bin\Debug\net6.0\EduHome.Domain.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\bin\Debug\net6.0\EduHome.Application.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\bin\Debug\net6.0\EduHome.Domain.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.csproj.AssemblyReference.cache
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.AssemblyInfoInputs.cache
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.AssemblyInfo.cs
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.csproj.CopyComplete
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\refint\EduHome.Infrastructure.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\EduHome.Infrastructure.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Infrastructure\obj\Debug\net6.0\ref\EduHome.Infrastructure.dll

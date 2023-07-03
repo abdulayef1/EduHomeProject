@@ -1,0 +1,17 @@
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\bin\Debug\net6.0\EduHome.Persistence.deps.json
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\bin\Debug\net6.0\EduHome.Persistence.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\bin\Debug\net6.0\EduHome.Persistence.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\bin\Debug\net6.0\EduHome.Application.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\bin\Debug\net6.0\EduHome.Domain.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\bin\Debug\net6.0\EduHome.Application.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\bin\Debug\net6.0\EduHome.Domain.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.csproj.AssemblyReference.cache
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.AssemblyInfoInputs.cache
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.AssemblyInfo.cs
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.csproj.CopyComplete
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\refint\EduHome.Persistence.dll
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\EduHome.Persistence.pdb
+C:\WorkSpace\Projects\EduHome\Infrastructure\EduHome.Persistence\obj\Debug\net6.0\ref\EduHome.Persistence.dll

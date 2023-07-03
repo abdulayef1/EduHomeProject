@@ -1,0 +1,15 @@
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\bin\Debug\net6.0\EduHome.Application.deps.json
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\bin\Debug\net6.0\EduHome.Application.dll
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\bin\Debug\net6.0\EduHome.Application.pdb
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\bin\Debug\net6.0\EduHome.Domain.dll
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\bin\Debug\net6.0\EduHome.Domain.pdb
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.csproj.AssemblyReference.cache
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.AssemblyInfoInputs.cache
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.AssemblyInfo.cs
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.csproj.CopyComplete
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.dll
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\refint\EduHome.Application.dll
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\EduHome.Application.pdb
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Application\obj\Debug\net6.0\ref\EduHome.Application.dll

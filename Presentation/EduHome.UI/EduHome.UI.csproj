@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\EduHome.Application\EduHome.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\EduHome.Infrastructure\EduHome.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\EduHome.Persistence\EduHome.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

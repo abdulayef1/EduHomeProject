@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zaPWTdqmi0lD/zRgPlPGfz5B0808waUzM7/ZaYSCeug=",
+  "Source": "EduHome.UI",
+  "BasePath": "_content/EduHome.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EduHome.UI\\wwwroot",
+      "Source": "EduHome.UI",
+      "ContentRoot": "C:\\WorkSpace\\Projects\\EduHome\\Presentation\\EduHome.UI\\wwwroot\\",
+      "BasePath": "_content/EduHome.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

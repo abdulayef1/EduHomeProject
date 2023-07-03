@@ -1,0 +1,12 @@
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\bin\Debug\net6.0\EduHome.Domain.deps.json
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\bin\Debug\net6.0\EduHome.Domain.dll
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\bin\Debug\net6.0\EduHome.Domain.pdb
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\EduHome.Domain.csproj.AssemblyReference.cache
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\EduHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\EduHome.Domain.AssemblyInfoInputs.cache
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\EduHome.Domain.AssemblyInfo.cs
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\EduHome.Domain.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\EduHome.Domain.dll
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\refint\EduHome.Domain.dll
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\EduHome.Domain.pdb
+C:\WorkSpace\Projects\EduHome\Core\EduHome.Domain\obj\Debug\net6.0\ref\EduHome.Domain.dll
