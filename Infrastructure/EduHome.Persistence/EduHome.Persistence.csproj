@@ -18,8 +18,4 @@
     <ProjectReference Include="..\..\Core\EduHome.Application\EduHome.Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
